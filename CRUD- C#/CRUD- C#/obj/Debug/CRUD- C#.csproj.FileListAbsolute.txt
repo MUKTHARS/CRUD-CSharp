@@ -1,0 +1,14 @@
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\bin\Debug\CRUD- C#.exe.config
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\bin\Debug\CRUD- C#.exe
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\bin\Debug\CRUD- C#.pdb
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\bin\Debug\MetroFramework.dll
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD- C#.csproj.AssemblyReference.cache
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD- C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD__C_.Form1.resources
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD__C_.Properties.Resources.resources
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD- C#.csproj.GenerateResource.cache
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD- C#.csproj.CoreCompileInputs.cache
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD- C#.csproj.CopyComplete
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD- C#.exe
+C:\Users\MUKTHAR\source\repos\CRUD- C#\CRUD- C#\obj\Debug\CRUD- C#.pdb
